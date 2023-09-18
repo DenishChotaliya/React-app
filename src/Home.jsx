@@ -1,12 +1,13 @@
-import React from "react";
-
+import React from 'react';
+// import Header from './Com-Comp/Header';
 
 const Home = () => {
-    return (  
+    return ( 
         <>
-        <h1>My Home Page</h1>
+        {/* <Header/> */}
+        <h1>Home</h1>
         </>
-    );
+     );
 }
  
 export default Home;

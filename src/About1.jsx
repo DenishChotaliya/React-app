@@ -1,13 +1,13 @@
 import React from 'react';
 // import Header from './Com-Comp/Header';
 
-const Product = () => {
+const About1 = () => {
     return ( 
         <>
          {/* <Header/> */}
-        <h1>Product</h1>
+        <h1>About</h1>
         </>
      );
 }
  
-export default Product;
+export default About1;
